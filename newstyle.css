@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    background-color: #f0f2f5;
+}
+
+.container{
+    height: 500px;
+    margin: 0% auto;
+    max-width:350px ;
+    border-radius: 30px;
+    padding-bottom: 10px;
+}
+footer{
+    height: 120px;
+    padding-left:100px;
+    padding-top:20px;
+    padding-bottom:20px ;
+}
+h1{
+    text-align: center;
+    color: #1877f2;
+    font-family: arial;
+}
+h2{
+    font:18px;
+    color: #1c1e21;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0% auto;
+    margin-bottom: 15px;
+    margin-left: 90px;
+    margin-top: -9px;
+    font-weight: lighter;
+}
+.email{
+    width:300px;
+    padding-bottom: 10px;
+    padding: 11px;
+    border-radius: 5px;
+    background-color: white;
+    border-width: 0.5px;
+    margin-left:10px;
+    }
+    .password{
+    width:300px;
+    padding-bottom: 10px;
+    padding: 11px;
+    border-radius: 5px;
+    background-color: white;
+    border-width: 0.5px;
+    margin-left:10px ;
+    }
+    .Login{
+        width:300px;
+    padding-bottom: 10px;
+    padding: 11px;
+    border-radius: 5px;
+    background-color: white;
+    border-width: 0.5px;
+    margin-left: 10px;
+    background-color: #1877f2;
+    color: white;
+    }
+    .new-account{
+        width:200px;
+        padding-bottom: 10px;
+        padding:11px;
+        border-radius: 5px;
+        border-width: 0.5px;
+        background-color: #42B72A;
+        color: #FFFFFF;
+        margin-left: 55px;
+        font-weight: bold;
+    }
+    .account{
+        color: #1877f2;
+        font: 14px Helvetica,arial sans-serif;
+        margin-left: 95px;
+
+    }
+    .form-fieldset{
+        border-radius: 10px;
+    }
+    .english{
+        color: #8a8d91;
+        font-size: small;
+    }
+    .one{
+        color: #8a8d91;
+        font-size: smaller;
+    }
+    .space{
+        word-spacing:7px;
+        margin-left: 80px;
+    }
+    .spaced{
+        word-spacing:7px;
+        margin-left: 80px;
+
+    }
+    hr{
+        margin-right: 23 0px;
+        margin-left:79px ;
+    }
+    
