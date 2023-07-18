@@ -47,7 +47,6 @@ h2{
     padding: 11px;
     border-radius: 5px;
     background-color: white;
-    border-width: 0.5px;
     margin-left:10px ;
     }
     .Login{
@@ -100,6 +99,11 @@ h2{
     }
     hr{
         margin-right: 23 0px;
-        margin-left:79px ;
+        margin-left:79px ;              
     }
     
+    select{
+        color: #1c1e21;
+        padding: 0px 25px 0px  0px;
+        width: 50px;
+    }
