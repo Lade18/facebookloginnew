@@ -10,18 +10,20 @@ body {
 
 .container-box {
     width: 100%;
-    background-color:#ffffff;
+    background-color:#dee2e6;
     margin-top: -18px;
     padding: 15px;
-    box-shadow: 100px;
-    border-style: none;
+    border: none;
 }
 
 .container{
     max-width: 450px;
     margin: 0px auto;
-    height: 680px;
+    height: 600px;
     border-radius: 5px;
+    box-shadow:2px 2px 7px #dee2e6;
+    background-color: white;
+    padding: 15px;
 }
 
 footer{
@@ -73,19 +75,44 @@ h3{
 }
 
 .gender-radio-container {
-    width: 140%;
+width: 140%;    
     
 }
 
-.gender-radio {
-    margin-right: 5%;
+.female {
+    margin-right: 20px;
     border-style: solid;
-    padding: 7px;
+    padding:5px;
     border-radius: 4px;
     border-width: thin;
+    padding-left: 40px;
+    margin: 15px;
+    margin-left: 2px;
+
+}
+.custom{
+    margin-right: 20px;
+    border-style: solid;
+    padding:5px;
+    border-radius: 4px;
+    border-width: thin;
+    padding-left: 35px;
+    margin: 15px;
+    margin-left: 1px;
 
 }
 
+.male{
+    margin-right: 20px;
+    border-style: solid;
+    padding:5px;
+    border-radius: 4px;
+    border-width: thin;
+    padding-left: 40px;
+    margin: 15px;
+    margin-left: 0px;
+
+}
 
 .english{
     color: #1877f2;
